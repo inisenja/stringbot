@@ -19,6 +19,7 @@ app = Client(
     plugins=dict(root="StringSessionBot"),
 )
 
+app.storage.SESSION_STRING_FORMAT = ">B?256sQ?"
 
 # Run Bot
 if __name__ == "__main__":
@@ -32,4 +33,4 @@ if __name__ == "__main__":
     print(f"@{uname} Started Successfully!")
     idle()
     app.stop()
-    print("Bot stopped. YAHHH!")
+    print("Bot stopped. Alvida!")
