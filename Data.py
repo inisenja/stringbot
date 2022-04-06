@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-ʜᴇʏ {}
+ʜᴇʏ {} [☺](https://telegra.ph/file/d4d1f05aca9d71decf4ce.jpg)
 
 sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
 
