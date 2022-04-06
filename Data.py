@@ -60,5 +60,5 @@ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [xᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/rexapr
 
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-Developer : @JustRex
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : @JustRex
     """
