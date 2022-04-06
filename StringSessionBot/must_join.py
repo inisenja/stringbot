@@ -22,7 +22,7 @@ async def must_join_channel(bot: Client, msg: Message):
                     f"Kamu harus join ke [Channel ini]({link}) untuk menggunakan bot ini. Setelah Join silahkan /start lagi !",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("⌬ Join Channel ⌬", url=link)]
+                        [InlineKeyboardButton("ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ", url=link)]
                     ])
                 )
                 await msg.stop_propagation()
