@@ -17,23 +17,23 @@ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("⌬ Start Generating Session ⌬", callback_data="generate")],
-        [InlineKeyboardButton(text="⌬ Return Home", callback_data="home")]
+        [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")],
+        [InlineKeyboardButton(text="ʀᴇᴛᴜʀɴ ʜᴏᴍᴇ", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("⌬ Start Generating Session ⌬", callback_data="generate")]
+        [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("⌬ Start Generating Session ⌬", callback_data="generate")],
-        [InlineKeyboardButton("⌬ Maintaned By ⌬", url="https://t.me/JustRex")],
+        [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪᴊɢ sᴇssɪᴏɴ", callback_data="generate")],
+        [InlineKeyboardButton("ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ👨‍💻", url="https://t.me/JustRex")],
         [
-            InlineKeyboardButton("How To Use ❔", callback_data="help"),
-            InlineKeyboardButton("⋙ About ⋘", callback_data="about")
+            InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
+            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("🦖 Xa Support 🦖", url="https://t.me/rexaprivateroom")],
+        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/rexaprivateroom")],
     ]
 
     # Help Message
@@ -54,11 +54,11 @@ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
 
 A Telegram Bot To Generate Pyrogram And Telethon String Session...
 
-Xa Support : [XA SUPPORT](https://t.me/rexaprivateroom)
+sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [xᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/rexaprivateroom)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+ғʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
-Language : [Python](www.python.org)
+ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
 Developer : @JustRex
     """
