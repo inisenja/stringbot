@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-ʜᴇʏ {} [🚀](https://telegra.ph/file/d4d1f05aca9d71decf4ce.jpg)
+ʜᴇʏ {} [🚀](https://telegra.ph/file/66a3b09fc332fa6caced1.jpg)
 
 sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
 
@@ -28,12 +28,12 @@ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ👨‍💻", url="https://t.me/JustRex")],
+        [InlineKeyboardButton("ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ👨‍💻", url="https://t.me/Itsmesenjaaah")],
         [
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/rexaprivateroom")],
+        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/vinixsupport")],
     ]
 
     # Help Message
@@ -54,11 +54,11 @@ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
 
 A Telegram Bot To Generate Pyrogram And Telethon String Session...
 
-sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [xᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/rexaprivateroom)
+sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [sᴇɴᴊᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/vinixsupport)
 
 ғʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ : @JustRex
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : @Itsmesenjaaah
     """
